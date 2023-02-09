@@ -1,0 +1,10 @@
+### IDEA ###
+.idea
+*.iml
+**/target
+**/*.iml
+logs
+**/resources/static
+*.versionsBackup
+**/*.versionsBackup
+*.log
